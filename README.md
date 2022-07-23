@@ -3,7 +3,8 @@
 ## 팀 구성원
 ### Front-End
 🐻 [임혜진](https://github.com/okcomper)<br>
-🐰 [이승현]()<br>
+🐰 [이승현](https://github.com/IlearnML)<br>
+🐯 [정지현](https://github.com/jjhyunjung)<br>
 ### Back-End
 🐭 [조범진](https://github.com/jobumjin)<br>
 🐮 [임동규](https://github.com/dongkyuu)<br>
@@ -21,7 +22,7 @@
 - homemaker
 
 ### 📆 프로젝트 기간 
-`2022/06/02 ~ 2022/00/00 (총 0주)`
+`2022/06/02 ~ 2022/07/25 (총 8주)`
 <br>
 
 ### 📄 프로젝트 목적
@@ -32,31 +33,32 @@
 
 
 ### 🛠 기술 스택
-- React
-- Spring Boot
-- MySQL
+
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
+<img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
+<img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=Spring Boot&logoColor=white"/>
+<img src="https://img.shields.io/badge/flask-000000?style=for-the-badge&logo=flask&logoColor=white">
+<img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+<img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"/>
 - Hadoop
-- spark
-- Tensorflow
-- Amazon AWS
-- Python
-**- .... (추후 수정)**
+- Docker
+- Jenkins
+- MyBatis
 <br>
 
 ## 프로젝트 기능
 ### 💡 핵심 기능
-1. 별점과 리뷰 데이터 분석을 통한 추천 시스템
-2. 필터 기능을 통해 소비자가 원하는 키워드가 포함된 리뷰를 제공
-3. 커뮤니티를 구축하여 타 소비자들의 실사용 후기 확인 가능
+1. 별점과 리뷰 데이터 분석을 통한 Content Based 기반 추천 시스템
+2. 워드클라우드 기능을 통해 리뷰에 등장하는 빈도가 많은 키워드 제공
 
 ### ✨ 특장점
 1. 리뷰를 통한 실속 있는 제품 구매
 2. 추천 시스템을 통해 제품 비교 시간 단축 가능
-3. 소비자들 간의 커뮤니티 형성
-4. 판매 사이트의 신뢰도 증가
+3. 판매 사이트의 신뢰도 증가
 
 <br>
 
-## 화면 구성도
-(추후 추가)
+## 💻 화면 구성도
+https://github.com/4plus6is10/homemaker/wiki/UI%EB%AA%85%EC%84%B8%EC%84%9C
 
