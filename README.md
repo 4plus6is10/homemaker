@@ -33,14 +33,12 @@
 
 
 ### 🛠 기술 스택
-
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
-<img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
-<img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-<img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=Spring Boot&logoColor=white"/>
-<img src="https://img.shields.io/badge/flask-000000?style=for-the-badge&logo=flask&logoColor=white">
-<img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
-<img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"/>
+- React
+- Python
+- Spring Boot
+- Flask
+- MySQL
+- Amazon EC2
 - Hadoop
 - Docker
 - Jenkins
@@ -59,6 +57,6 @@
 
 <br>
 
-## 💻 화면 구성도
-https://github.com/4plus6is10/homemaker/wiki/UI%EB%AA%85%EC%84%B8%EC%84%9C
+## 화면 구성도
+💻 https://github.com/4plus6is10/homemaker/wiki/UI%EB%AA%85%EC%84%B8%EC%84%9C
 
